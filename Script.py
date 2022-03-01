@@ -9,7 +9,7 @@ class script(object):
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/oreo_mv_bot"> OREO </a>
-𝑶𝒘𝒏𝒆𝒓 👑 - <a href="https://t.me/Hey_Its_Me_Lucifer"> ➳ᴹᴿメ ʟᴜᴄɪ፝֟ꜰᴇʀ </a>
+║┣⪼ 𝑶𝒘𝒏𝒆𝒓 👑 - <a href="https://t.me/Hey_Its_Me_Lucifer"> ➳ᴹᴿメ ʟᴜᴄɪ፝֟ꜰᴇʀ </a>
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/iAmLiKu1"> ❥ℭ𝐒 ‣ ᏂᎧᏇᏝ⚡ </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
